@@ -1,0 +1,24 @@
+the weights are something that keeps iterating to a new form to result in better predictions.
+whereas, the inputs are the inputs
+
+I believe the bias to be the threshold on the y-axis (namely, the intercept).
+
+------ Titanic Data -------
+
+The number of people that survived was equivalent to half of the number of people died.
+
+More females survived, and more men died.
+
+PClass of `3` died the most when compared with other classes in the death count. But suprisingly,
+they out-numbered the people of PClass `2` when it came to the survival count.
+
+20 - 30 age group was the highest in count (The passengers who embarked the titanic ship)
+
+the same age group died the most
+
+--- PCA notes ---
+Centering/scaling is done by calculating the average of the data and subtracting it from all the data points.
+Eigenvalues are measures of variation.
+
+
+Variables with a positive correlation are grouped together. Negative corr means they're at the opp side of the origin.
