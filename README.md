@@ -1,6 +1,5 @@
 Authors:
-  Scheer, Daniel
-        Chaudhary, Eisa
+  Scheer, Daniel and Chaudhary, Eisa
 
 B422 Data Mining - Final Project
 
